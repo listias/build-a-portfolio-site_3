@@ -1,0 +1,121 @@
+div.l_container {
+	width: 20%;
+	height: 100%;
+	padding: 15vh 4%;
+}
+
+div.r_container {
+	width: 80%;
+	height:100%;
+	float: right;
+	padding-right: 2%;
+}
+
+.header_container {
+	width: 100%;
+	max-height: 40%;
+	display: flex;
+}
+.logo {
+	width: 20%;
+	height: 20%;
+	text-align: left;
+}
+.name {
+	width: 80%;
+	text-align: right;
+	font: 4vw/90% calibri;
+	color: #747704;
+}
+
+h2 {
+    text-align: right;
+    font-size: 80%;
+}
+
+p {
+	border-bottom: 0.3em solid #bcbbbb;
+}
+
+.main_image {
+	display: flex;
+	width: 100%;
+
+}
+
+.feature{
+	height: 5vw;
+}
+
+h4 {
+	display: flex;
+	width: 150%;
+	font: 5vw calibri;
+	color: #bcbbbb;
+}
+
+.b_container {
+	width: 100%;
+	display: flex;
+}
+
+.bottom {
+	width: 33%;
+}
+
+#app {
+	width: 100%;
+	order: 1;
+}
+
+#sun {
+	width: 100%;
+	order: 2;
+}
+
+#bo {
+	order: 3;
+	width: 100%;
+}
+
+h3 {
+	text-align: center;
+	font-size: 3vw;
+	color: #747704;
+}
+
+a {
+	display: block;
+	width:auto;
+	margin:0 auto;
+	font-size: 1.5vmin;
+	color: #747704;
+	text-align: center;
+}
+
+div#left_1 {
+	height: 6vh;
+	width: 9vw;
+	margin-bottom: 10px;
+	background-color: #f8981c;
+
+}
+
+div#left_2 {
+	height: 6vh;
+	width: 9vw;
+	margin-bottom: 10px;
+	background-color: #bcbbbb;
+}
+
+div#left_3 {
+	height: 6vh;
+	width: 9vw;
+	background-color: #747704;
+}
+
+h5 {
+	font-size: 2vw;
+}
+
+
